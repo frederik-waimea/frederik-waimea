@@ -3,7 +3,7 @@ I'm Frederik and I'm a little person at Waimea College.
 I'm fluent in two languages: German, English.
 Currently I'm just working on getting back into Kotlin and school and stuff afer the long summer break.
 
-![I really like:]
+![Altext](I really like:)
 -analysing problems
 
 -doing stuff outside like hiking, kayaking and all those things
